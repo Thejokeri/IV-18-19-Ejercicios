@@ -21,6 +21,30 @@ Y a los 7 años: 3146,78 €.
 - **Ejercicio 2.
   Usando las tablas de precios de servicios de alojamiento en Internet “clásicos”, es decir, que ofrezcan Virtual Private Servers o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa sólo el 1% o el 10% del tiempo.**
 
+
+Para la elaboración del ejercicio 2, he buscado el VPS [interServer](https://www.interserver.net), y como proveedor de servicios en la nube he obtado por [AWS](https://aws.amazon.com/es/).
+
+El VPS con las características de:
+
+    - 2 Cores (CPU).
+    - 8 GB de RAM.
+    - 200 GB de almacenamiento.
+    - 8 TB de transferencia.
+
+El precio es de 48 $/mes (No se calcular el precio en cuanto al porcentaje de uso, en dicho caso estamos hablando de un uso continuo).
+
+El servidor cloud tiene la siguiente característica:
+
+    - 2 vCPU.
+    - 4 GiB.
+    - Hasta 10 Gbps.
+
+El precio al 1% de uso es de: 0,81$.
+
+El precio al 10% de uso es de: 7,48$.
+
+Por tanto es mucho más recomendable utilizar servidores cloud ya que es mucho más barato. Para más información sobre [comparativas entre VPS y servidores cloud](https://www.quora.com/Which-one-is-better-VPS-Hosting-Vs-Cloud-Hosting).
+
 ---
 
 - **Ejercicio 3.
