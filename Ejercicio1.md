@@ -70,5 +70,3 @@ Por tanto es mucho más recomendable utilizar servidores cloud ya que es mucho m
 
 - **Ejercicio 6.
     Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.**
-
----
