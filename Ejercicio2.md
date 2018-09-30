@@ -1,9 +1,8 @@
 # Ejercicios Tema 2. Desarrollo basado en pruebas
 
----
-
 - **Ejercicio 1.
   Descargar y ejecutar las pruebas de alguno de los proyectos anteriores, y si sale todo bien, hacer un pull request a alguno de esos proyectos con tests adicionales, si es que faltan (en el momento que se lea este tema).**
+
 
 ---
 
@@ -61,5 +60,3 @@ Las acciones serían:
 
 - **Ejercicio 9.
   Haced los dos primeros pasos antes de pasar al tercero.**
-
----
