@@ -1,4 +1,4 @@
-# Ejercicios tema 1: Introducción a la infraestructura virtual: concepto y soporte físico
+# Ejercicios Tema 1. Introducción a la infraestructura virtual: concepto y soporte físico
 
 ---
 
